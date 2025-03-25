@@ -1,8 +1,5 @@
-👋 Hey there, I'm Eugine Onyango!
-🚀 Software Developer | Java Enthusiast | Web & AI Explorer |Data science enthusiast
-
-I'm passionate about building scalable applications and solving complex problems. I have experience in full-stack web development, Java-based systems, and AI-powered solutions.
-
+👋 Eugine Onyango is a third-year Computer Science student at Chuka University with a passion for software development, data science, and networking. He has hands-on experience troubleshooting IT systems and managing networks from his internship at Siaya County Referral Hospital. Eugine has also earned a certification in Statistical Packages for Social Sciences (SPSS) and Stata from KESAP Research Centre, enhancing his data analysis skills.
+With a strong foundation in problem-solving and technical troubleshooting, he aspires to build innovative technology solutions that bridge the gap between software engineering and data-driven decision-making.
 💡 What I Do
 🖥️ Languages & Frameworks: Java, C, Python, JavaScript
 
