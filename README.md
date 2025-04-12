@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h2>About me</h2>
 Eugine Onyango is Computer Science student at Chuka University with a passion for software development, data science, and networking. He has hands-on experience troubleshooting IT systems and managing networks from his internship at Siaya County Referral Hospital. Eugine has also earned a certification in Statistical Packages for Social Sciences (SPSS) and Stata from KESAP Research Centre, enhancing his data analysis skills.
 
 With a strong foundation in problem-solving and technical troubleshooting, he aspires to build innovative technology solutions that bridge the gap between software engineering and data-driven decision-making.
