@@ -24,6 +24,7 @@ With a strong foundation in problem-solving and technical troubleshooting, he as
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YM1587&langs_count=6&theme=default)
   ## GITHUB STREAKS
-  ![GitHub Streak](https://streak-stats.demolab.com?user=YM1587&theme=default)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YM1587&theme=default)
+
 
 
