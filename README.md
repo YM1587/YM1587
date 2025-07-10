@@ -1,5 +1,5 @@
 <h2>About me</h2>
-Eugine Onyango is Computer Science student at Chuka University with a passion for software development, data science, and networking. He has hands-on experience troubleshooting IT systems and managing networks . Eugine is also proficient with data analysis and cleaning using MYSQL and excel.With a strong foundation in problem-solving and technical troubleshooting, he aspires to build innovative technology solutions that bridge the gap between software engineering and data-driven decision-making.
+Eugine Onyango is Computer Science student at Chuka University with a passion for software development, data science, and networking. He has hands-on experience troubleshooting IT systems and managing networks . Eugine is also proficient with data analysis and cleaning using MySQL and excel.With a strong foundation in problem-solving and technical troubleshooting, he aspires to build innovative technology solutions that bridge the gap between software engineering and data-driven decision-making.
 
 
 
