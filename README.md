@@ -3,7 +3,7 @@ Eugine Onyango is Computer Science student at Chuka University with a passion fo
   
 
 
-## TECH STACK ,TOOLS & FRAMEWOORKS
+## TECH STACK-TOOLS & FRAMEWOORKS
 
 
 ## Languages
