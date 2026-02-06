@@ -46,6 +46,13 @@ Eugine is proficient in data analysis and data cleaning using MySQL and Excel. W
 
 ---
 
+## Current Focus
+- Machine Learning & Data Science (ALX Program)
+- Building real-world projects with Python & SQL
+- Exploring AI-assisted development workflows
+
+---
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YM1587&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YM1587&langs_count=6&theme=default)
