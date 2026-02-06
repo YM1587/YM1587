@@ -6,6 +6,9 @@ Eugine is proficient in data analysis and data cleaning using MySQL and Excel. W
 
 ---
 
+### Computer Science Student | Software Developer | Data Science & Networking Enthusiast
+
+
 ## Tech Stack – Tools & Frameworks
 
 ### Languages
