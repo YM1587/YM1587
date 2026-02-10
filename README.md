@@ -56,8 +56,12 @@ Eugine is proficient in data analysis and data cleaning using MySQL and Excel. W
 ---
 
 ## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YM1587&show_icons=true&theme=default)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YM1587&langs_count=6&theme=default)
+
+---
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YM1587&theme=default)
