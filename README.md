@@ -1,9 +1,20 @@
 ## About Me
-### Computer Science Student | Software Developer | Data Science & Networking Enthusiast
+### AI-Driven Developer | Data Science Practitioner | Systems Thinker
 
-Eugine Onyango is a Computer Science student at Chuka University with a strong passion for software development, data science, and computer networking. He has hands-on experience troubleshooting IT systems and managing network environments.
+Eugine Onyango is a Computer Science student at Chuka University, focused on building intelligent, real-world systems at the intersection of software engineering, data science, and AI.
 
-Eugine is proficient in data analysis and data cleaning using MySQL and Excel. With a solid foundation in problem-solving, logical thinking, and technical troubleshooting, he aspires to build innovative technology solutions that bridge the gap between software engineering and data-driven decision-making.
+He is currently advancing through the ALX Data Science program, where he applies machine learning, data analysis, and problem-solving to practical challenges. Beyond theory, Eugine is deeply hands-on — designing projects, experimenting with AI-assisted workflows, and translating ideas into functional systems.
+
+With a strong foundation in software development (Java, Python, JavaScript) and data tools (SQL, Excel, Pandas), he is evolving into a builder who leverages AI to move faster, think bigger, and create impactful solutions.
+
+He is particularly interested in:
+- Intelligent systems and automation
+- Data-driven decision-making tools
+- Real-world problem solving through software
+
+Eugine’s long-term vision is to become a technology leader and builder of scalable solutions that improve lives and create opportunities.
+
+---
 
 ## Tech Stack – Tools & Frameworks
 
@@ -43,9 +54,10 @@ Eugine is proficient in data analysis and data cleaning using MySQL and Excel. W
 ---
 
 ## Current Focus
-- Machine Learning & Data Science (ALX Program)
-- Building real-world projects with Python & SQL
-- Exploring AI-assisted development workflows
+- Building AI-powered and data-driven projects
+- Advancing Machine Learning through the ALX Data Science Program
+- Leveraging AI tools to accelerate development and productivity
+- Developing real-world systems (not just tutorials)
 
 ---
 
@@ -54,8 +66,6 @@ Eugine is proficient in data analysis and data cleaning using MySQL and Excel. W
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YM1587&show_icons=true)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YM1587&langs_count=6)
-
-
 
 ---
 
