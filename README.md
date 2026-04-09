@@ -1,167 +1,73 @@
-<!-- Header -->
-<div align="center">
+## About Me
+### AI-Driven Developer | Data Science Practitioner | Systems Thinker
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:534AB7,100:7F77DD&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+Eugine Onyango is a Computer Science student at Chuka University, focused on building intelligent, real-world systems at the intersection of software engineering, data science, and AI.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Eugine+Onyango" alt="Name"/>
+He is currently advancing through the ALX Data Science program, where he applies machine learning, data analysis, and problem-solving to practical challenges. Beyond theory, Eugine is deeply hands-on — designing projects, experimenting with AI-assisted workflows, and translating ideas into functional systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=2500&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&height=36&lines=AI-Driven+Developer;Data+Science+Practitioner;Systems+Builder;Backend+%26+ML+Engineer" alt="Roles"/>
+With a strong foundation in software development (Java, Python, JavaScript) and data tools (SQL, Excel, Pandas), he is evolving into a builder who leverages AI to move faster, think bigger, and create impactful solutions.
 
-<br/>
+He is particularly interested in:
+- Intelligent systems and automation
+- Data-driven decision-making tools
+- Real-world problem solving through software
 
-[![GitHub](https://img.shields.io/badge/GitHub-YM1587-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/YM1587)
-[![ALX](https://img.shields.io/badge/ALX-Data%20Science-534AB7?style=flat-square&logoColor=white)](https://www.alxafrica.com)
-[![University](https://img.shields.io/badge/CS-Chuka%20University-3C3489?style=flat-square&logoColor=white)](https://www.chuka.ac.ke)
-
-</div>
-
-<br/>
+Eugine’s long-term vision is to become a technology leader and builder of scalable solutions that improve lives and create opportunities.
 
 ---
 
-## &nbsp;What I Do
+## Tech Stack – Tools & Frameworks
 
-I build systems — not tutorials.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Currently deep in the **ALX Data Science program**, applying ML, data pipelines, and AI-assisted workflows to real problems. My stack spans full-stack software, machine learning, and backend systems. I think in systems, prototype fast, and iterate until things actually work.
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
-Long-term: technology leader building infrastructure that matters.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-> *"Move fast with strong foundations."*
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4693B2?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## &nbsp;Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7F77DD)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=coffeescript&logoColor=7F77DD)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7F77DD)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7F77DD)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=7F77DD)
-
-**AI / Data Science**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=7F77DD)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7F77DD)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=7F77DD)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=7F77DD)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=7F77DD)
-
-**Frontend / Backend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7F77DD)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=7F77DD)
-![JavaFX](https://img.shields.io/badge/JavaFX-0d1117?style=flat-square&logo=java&logoColor=7F77DD)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=7F77DD)
-![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=flat-square&logo=fastapi&logoColor=7F77DD)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=7F77DD)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=7F77DD)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7F77DD)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=7F77DD)
-![Maven](https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=7F77DD)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7F77DD)
+### Tools & Other
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## &nbsp;Current Focus
-
-```python
-focus = {
-    "learning"  : "Machine Learning · ALX Data Science Program",
-    "building"  : "AI-powered tools & intelligent data pipelines",
-    "exploring" : "LLM integration · Automation · Scalable backends",
-    "goal"      : "Ship systems that create real-world impact",
-}
-```
+## Current Focus
+- Building AI-powered and data-driven projects
+- Advancing Machine Learning through the ALX Data Science Program
+- Leveraging AI tools to accelerate development and productivity
+- Developing real-world systems (not just tutorials)
 
 ---
 
-## &nbsp;Featured Projects
+## GitHub Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YM1587&show_icons=true)
 
-### 🔹 [Project Name](https://github.com/YM1587/repo)
-> Short, punchy description of what this solves and for whom. One sentence on the impact.
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7F77DD)
-![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7F77DD)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=7F77DD)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Project Name](https://github.com/YM1587/repo)
-> Short, punchy description of what this solves and for whom. One sentence on the impact.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7F77DD)
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=7F77DD)
-![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=7F77DD)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [Project Name](https://github.com/YM1587/repo)
-> Short, punchy description of what this solves and for whom. One sentence on the impact.
-
-![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=coffeescript&logoColor=7F77DD)
-![JavaFX](https://img.shields.io/badge/-JavaFX-0d1117?style=flat-square&logo=java&logoColor=7F77DD)
-![Maven](https://img.shields.io/badge/-Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=7F77DD)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [Project Name](https://github.com/YM1587/repo)
-> Short, punchy description of what this solves and for whom. One sentence on the impact.
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7F77DD)
-![REST API](https://img.shields.io/badge/-REST%20API-0d1117?style=flat-square&logo=fastapi&logoColor=7F77DD)
-![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logo=mysql&logoColor=7F77DD)
-
-</td>
-</tr>
-</table>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YM1587&langs_count=6)
 
 ---
 
-## &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YM1587&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=534AB7&text_color=888780&ring_color=534AB7&count_private=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YM1587&langs_count=6&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=888780&layout=compact" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YM1587&hide_border=true&background=0d1117&ring=534AB7&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=888780&dates=444441&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## &nbsp;Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YM1587&bg_color=0d1117&color=7F77DD&line=534AB7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:534AB7,100:0d1117&height=80&section=footer" width="100%"/>
-
-<sub>Building things that matter &nbsp;·&nbsp; Chuka University &nbsp;·&nbsp; ALX Data Science</sub>
-
-</div>
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YM1587&theme=default)
