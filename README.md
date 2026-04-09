@@ -1,167 +1,99 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Eugine+Onyango;Systems+Builder;Data+Science+Practitioner;AI+Architect" alt="Typing SVG" />
 
-<br/>
+  <p align="center">
+    <strong>Architecting intelligent systems through the lens of data and AI.</strong>
+  </p>
 
-<!-- Avatar -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=13&duration=0&pause=0&color=7F77DD&center=true&vCenter=true&width=200&height=28&lines=AI-DRIVEN+DEVELOPER" alt="badge"/>
-
-# Eugine Onyango
-
-<p align="center" style="max-width: 500px; margin: 0 auto;">
-CS student at Chuka University &nbsp;·&nbsp; ALX Data Science &nbsp;·&nbsp; Building intelligent systems at the intersection of AI, data, and software engineering.
-</p>
-
-<br/>
-
-![AI-Driven Developer](https://img.shields.io/badge/AI--Driven%20Developer-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=&fontColor=3C3489)
-![Data Science Practitioner](https://img.shields.io/badge/Data%20Science%20Practitioner-E1F5EE?style=flat-square&color=E1F5EE)
-![Systems Thinker](https://img.shields.io/badge/Systems%20Thinker-E6F1FB?style=flat-square&color=E6F1FB)
-
+  <p align="center">
+    <a href="https://github.com/YM1587">
+      <img src="https://img.shields.io/github/followers/YM1587?logo=github&style=flat-square&color=000000&labelColor=333333" alt="Followers">
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Contact-Email-white?style=flat-square&logo=gmail&logoColor=black" alt="Email">
+    </a>
+  </p>
 </div>
 
 ---
 
-## About
+### ⚡ Professional Summary
 
-Hands-on builder translating ideas into functional systems. Currently advancing through the ALX Data Science program — applying machine learning, data analysis, and problem-solving to real-world challenges. Strong foundation in software development and data tools, evolving toward AI-powered automation and scalable platforms.
+I am a **Systems Builder** and **Computer Science student** at Chuka University with a focus on high-utility software and data-driven intelligence. My workflow integrates **AI-assisted development** to accelerate the transition from architectural theory to production-ready systems. Currently specializing in **Data Science through ALX**, I bridge the gap between raw data and actionable automation.
 
----
-
-## Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⬡ &nbsp;AI & Machine Learning**
-<br/>Model building, EDA, feature engineering, evaluation pipelines.
-
-`Scikit-Learn` &nbsp;`Pandas` &nbsp;`NumPy` &nbsp;`Jupyter`
-
-</td>
-<td width="50%" valign="top">
-
-**◈ &nbsp;Software Engineering**
-<br/>Full-stack apps, REST APIs, database design, component architecture.
-
-`Python` &nbsp;`Java` &nbsp;`React` &nbsp;`Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**◇ &nbsp;Data Engineering**
-<br/>Cleaning pipelines, unstructured data, SQL, visualization.
-
-`SQL` &nbsp;`Matplotlib` &nbsp;`Seaborn` &nbsp;`Excel`
-
-</td>
-<td width="50%" valign="top">
-
-**◉ &nbsp;Dev Workflow**
-<br/>AI-assisted development, prompt engineering, rapid prototyping.
-
-`Git` &nbsp;`GitHub` &nbsp;`VS Code` &nbsp;`TypeScript`
-
-</td>
-</tr>
-</table>
+- 🏗️ **Core Focus:** Distributed architectures, real-time data pipelines, and intelligent automation.
+- 🧠 **Methodology:** Systems thinking—prioritizing scalability, security, and impact over buzzwords.
+- 🌐 **Vision:** Building the technical infrastructure for the next generation of African digital leadership.
 
 ---
 
-## Full Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-F1EFE8?style=flat-square&logo=python&logoColor=5F5E5A)
-![Java](https://img.shields.io/badge/Java-F1EFE8?style=flat-square&logo=coffeescript&logoColor=5F5E5A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F1EFE8?style=flat-square&logo=javascript&logoColor=5F5E5A)
-![TypeScript](https://img.shields.io/badge/TypeScript-F1EFE8?style=flat-square&logo=typescript&logoColor=5F5E5A)
-![SQL](https://img.shields.io/badge/SQL-F1EFE8?style=flat-square&logo=mysql&logoColor=5F5E5A)
-
-**AI / Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-F1EFE8?style=flat-square&logo=pandas&logoColor=5F5E5A)
-![NumPy](https://img.shields.io/badge/NumPy-F1EFE8?style=flat-square&logo=numpy&logoColor=5F5E5A)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F1EFE8?style=flat-square&logo=scikitlearn&logoColor=5F5E5A)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F1EFE8?style=flat-square&logo=python&logoColor=5F5E5A)
-![Seaborn](https://img.shields.io/badge/Seaborn-F1EFE8?style=flat-square&logo=python&logoColor=5F5E5A)
-![Jupyter](https://img.shields.io/badge/Jupyter-F1EFE8?style=flat-square&logo=jupyter&logoColor=5F5E5A)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-F1EFE8?style=flat-square&logo=react&logoColor=5F5E5A)
-![Node.js](https://img.shields.io/badge/Node.js-F1EFE8?style=flat-square&logo=nodedotjs&logoColor=5F5E5A)
-![JavaFX](https://img.shields.io/badge/JavaFX-F1EFE8?style=flat-square&logo=java&logoColor=5F5E5A)
-![Tailwind](https://img.shields.io/badge/Tailwind-F1EFE8?style=flat-square&logo=tailwindcss&logoColor=5F5E5A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-F1EFE8?style=flat-square&logo=bootstrap&logoColor=5F5E5A)
-![MySQL](https://img.shields.io/badge/MySQL-F1EFE8?style=flat-square&logo=mysql&logoColor=5F5E5A)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F1EFE8?style=flat-square&logo=git&logoColor=5F5E5A)
-![GitHub](https://img.shields.io/badge/GitHub-F1EFE8?style=flat-square&logo=github&logoColor=5F5E5A)
-![VS Code](https://img.shields.io/badge/VS%20Code-F1EFE8?style=flat-square&logo=visualstudiocode&logoColor=5F5E5A)
-![Maven](https://img.shields.io/badge/Maven-F1EFE8?style=flat-square&logo=apachemaven&logoColor=5F5E5A)
-
----
-
-## Current Focus
-
-- Building AI-powered and data-driven projects beyond tutorials
-- Advancing machine learning through the ALX Data Science Program  
-- Leveraging AI tools to accelerate development and productivity
-- Developing intelligent systems, automation, and scalable APIs
-
----
-
-## By the Numbers
+### 🛠️ Technical Ecosystem
 
 <table align="center">
-<tr>
-<td align="center" width="33%">
-<br/>
-<strong>5</strong>
-<br/>
-<sub>Core languages</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<strong>20+</strong>
-<br/>
-<sub>Tools & frameworks</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<strong>AI</strong>
-<br/>
-<sub>Future direction</sub>
-<br/><br/>
-</td>
-</tr>
+  <tr>
+    <td align="left" width="50%">
+      <strong>Languages & Core</strong><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="left" width="50%">
+      <strong>AI & Data Science</strong><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <strong>Backend & Infrastructure</strong><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td align="left" width="50%">
+      <strong>Frontend & Design</strong><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## GitHub Stats
+### 🚀 Featured Projects
+
+> **Modular AI Surveillance** | *Vision & Security*
+> - Hybrid edge-cloud AI platform for real-time safety monitoring.
+> - **Tech:** Python, FastAPI, YOLOv8, OpenCV, Docker.
+> - **Impact:** Reduced anomaly detection latency to <200ms on low-power hardware.
+
+> **Smart Ranch Management (SRMS)** | *Agri-Tech*
+> - End-to-end livestock tracking and health analytics system for large-scale ranches.
+> - **Tech:** Flutter, FastAPI, PostgreSQL.
+> - **Status:** Validating data-driven decision models for herd optimization.
+
+---
+
+### 📊 System Diagnostics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YM1587&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YM1587&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000" />
+</div>
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YM1587&show_icons=true&hide_border=true&bg_color=F1EFE8&title_color=534AB7&icon_color=7F77DD&text_color=444441&ring_color=7F77DD" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YM1587&langs_count=6&hide_border=true&bg_color=F1EFE8&title_color=534AB7&text_color=444441&layout=compact" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YM1587&hide_border=true&background=F1EFE8&ring=7F77DD&fire=534AB7&currStreakLabel=534AB7&sideLabels=444441&dates=888780&currStreakNum=3C3489&sideNums=3C3489" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YM1587&theme=transparent&hide_border=true&stroke=ffffff&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-<sub>Building things that matter · Chuka University · ALX Data Science</sub>
+  <p><em>Continuously iterating. Building for impact.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer" width="100%" />
 </div>
