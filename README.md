@@ -16,40 +16,73 @@ Eugine’s long-term vision is to become a technology leader and builder of scal
 
 ---
 
-## Tech Stack – Tools & Frameworks
+## Tech Stack – Tools, Systems & Workflows
 
-### Languages
+### Programming & Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### Data Science & Analytics
+### AI, Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4693B2?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Tools & Other
+**Also working with:**
+- Exploratory Data Analysis (EDA) & Data Cleaning Pipelines  
+- Machine Learning Model Building & Evaluation  
+- Real-world dataset handling (messy, unstructured data)  
+- Feature engineering & model optimization  
+
+---
+
+### Software Development (Frontend + Backend)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**Frontend:**
+- HTML5, CSS3, Bootstrap, Tailwind  
+- Responsive UI design & component-based architecture  
+
+**Backend:**
+- REST API development  
+- Database design & integration (MySQL)  
+- Maven-based Java applications  
+
+---
+
+### 🧰 Developer Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Workflow & Systems Thinking:**
+- AI-assisted development (prompt engineering, rapid prototyping)  
+- Debugging complex systems (code, databases, environments)  
+- Building end-to-end projects (idea → implementation → iteration)  
+- Version control & collaborative development  
+
+---
+
+### Networking & Systems (Underrated but Powerful)
+- Network troubleshooting & system diagnostics  
+- Understanding of network environments & infrastructure  
+- Real-world IT support experience  
+
+---
+
+### Emerging Stack (Where I'm Heading)
+- AI-powered applications & automation systems  
+- Data-driven platforms & intelligent dashboards  
+- Scalable backend systems & APIs  
 
 ---
 
