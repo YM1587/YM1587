@@ -21,10 +21,9 @@ Rather than following tutorials, he focuses on building practical systems, exper
 
 ## Tech Stack
 
-## Tech Stack
-
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### 🧠 Core Languages
@@ -38,6 +37,7 @@ Rather than following tutorials, he focuses on building practical systems, exper
 </p>
 
 </td>
+
 <td valign="top" width="50%">
 
 ### 🤖 AI & Data Systems
@@ -51,9 +51,11 @@ Rather than following tutorials, he focuses on building practical systems, exper
 > EDA • Pipelines • ML • Feature Engineering
 
 </td>
+
 </tr>
 
 <tr>
+
 <td valign="top">
 
 ### ⚙️ Software Engineering
@@ -67,6 +69,7 @@ Rather than following tutorials, he focuses on building practical systems, exper
 > Frontend • Mobile • APIs • Backend
 
 </td>
+
 <td valign="top">
 
 ### 🛠️ Tools & Workflow
@@ -79,27 +82,27 @@ Rather than following tutorials, he focuses on building practical systems, exper
 > AI-assisted • Debugging • System Design • Version Control
 
 </td>
+
 </tr>
 
 <tr>
-<td valign="top" colspan="2">
+
+<td valign="top">
 
 ### 🌐 Systems & Networking
 > Troubleshooting • Infrastructure • System Diagnostics • IT Support
 
 </td>
-</tr>
 
-<tr>
-<td valign="top" colspan="2">
+<td valign="top">
 
 ### 🚀 Current Focus
 > AI Systems • Data Platforms • Scalable Applications • Automation • Real-world system building
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 ## GitHub Stats
