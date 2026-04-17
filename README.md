@@ -1,19 +1,26 @@
 ## About Me
 ### AI-Driven Developer | Data Science Practitioner | Systems Thinker
 
-Eugine Onyango is a Computer Science student at Chuka University, focused on building intelligent, real-world systems at the intersection of software engineering, data science, and AI.
+## About Me
+### AI Engineer | Data Systems Builder | Software Developer
 
-He is currently advancing through the ALX Data Science program, where he applies machine learning, data analysis, and problem-solving to practical challenges. Beyond theory, Eugine is deeply hands-on — designing projects, experimenting with AI-assisted workflows, and translating ideas into functional systems.
+Eugine Onyango is an AI-focused software engineer working at the intersection of machine learning, data science, and backend systems.
 
-With a strong foundation in software development (Java, Python, JavaScript) and data tools (SQL, Excel, Pandas), he is evolving into a builder who leverages AI to move faster, think bigger, and create impactful solutions.
+He builds intelligent, data-driven solutions — combining software engineering, analytics, and AI to design systems that solve real-world problems. His work goes beyond writing code, focusing on structuring ideas into scalable, functional products.
 
-He is particularly interested in:
-- Intelligent systems and automation
-- Data-driven decision-making tools
-- Real-world problem solving through software
+With experience across Python,Dart ,Flutter, Java, JavaScript, and SQL, he develops end-to-end systems, from data processing and model development to backend architecture and application logic.
 
-Eugine’s long-term vision is to become a technology leader and builder of scalable solutions that improve lives and create opportunities.
+He actively leverages AI as a core part of his workflow — accelerating development, improving decision-making, and enabling rapid prototyping of complex systems.
 
+His work is centered around:
+- AI-powered applications and automation  
+- Data-driven systems and analytics platforms  
+- Scalable backend systems and APIs  
+- End-to-end product development (idea → system → iteration)  
+
+Rather than following tutorials, he focuses on building practical systems, experimenting with real-world problems, and continuously refining his approach to engineering and system design.
+
+His long-term focus is on becoming a high-level engineer and building impactful, scalable technology solutions.
 ---
 
 ## Tech Stack – Tools, Systems & Workflows
