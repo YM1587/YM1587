@@ -18,7 +18,6 @@ His work is centered around:
 Rather than following tutorials, he focuses on building practical systems, experimenting with real-world problems, and continuously refining his approach to engineering and system design.
 
 ### His long-term focus is on becoming a high-level engineer and building impactful, scalable technology solutions
----
 
 ## Tech Stack
 
@@ -77,21 +76,29 @@ Rather than following tutorials, he focuses on building practical systems, exper
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-> AI-assisted • Debugging • System Design
+> AI-assisted • Debugging • System Design • Version Control
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2">
+
+### 🌐 Systems & Networking
+> Troubleshooting • Infrastructure • System Diagnostics • IT Support
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2">
+
+### 🚀 Current Focus
+> AI Systems • Data Platforms • Scalable Applications • Automation • Real-world system building
 
 </td>
 </tr>
 </table>
-
----
-
-### 🌐 Systems & Networking
-> Troubleshooting • Infrastructure • Diagnostics
-
----
-
-### 🚀 Current Focus
-> AI Systems • Data Platforms • Scalable Applications • Automation
 
 ---
 
