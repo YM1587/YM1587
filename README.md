@@ -24,7 +24,7 @@ His long-term focus is on becoming a high-level engineer and building impactful,
 
 <td valign="top" width="50%">
 
-### 🧠 Core Languages
+### Core Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
