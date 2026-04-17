@@ -15,9 +15,7 @@ His work is centered around:
 - Scalable backend systems and APIs  
 - End-to-end product development (idea → system → iteration)  
 
-Rather than following tutorials, he focuses on building practical systems, experimenting with real-world problems, and continuously refining his approach to engineering and system design.
-
-### His long-term focus is on becoming a high-level engineer and building impactful, scalable technology solutions
+His long-term focus is on becoming a high-level engineer and building impactful, scalable technology solutions
 
 ## Tech Stack
 
@@ -40,7 +38,7 @@ Rather than following tutorials, he focuses on building practical systems, exper
 
 <td valign="top" width="50%">
 
-### 🤖 AI & Data Systems
+### AI & Data Systems
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -58,7 +56,7 @@ Rather than following tutorials, he focuses on building practical systems, exper
 
 <td valign="top">
 
-### ⚙️ Software Engineering
+### Software Engineering
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -72,7 +70,7 @@ Rather than following tutorials, he focuses on building practical systems, exper
 
 <td valign="top">
 
-### 🛠️ Tools & Workflow
+### Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -89,29 +87,42 @@ Rather than following tutorials, he focuses on building practical systems, exper
 
 <td valign="top">
 
-### 🌐 Systems & Networking
+### Systems & Networking
 > Troubleshooting • Infrastructure • System Diagnostics • IT Support
 
 </td>
 
 <td valign="top">
 
-### 🚀 Current Focus
+### Current Focus
 > AI Systems • Data Platforms • Scalable Applications • Automation • Real-world system building
 
 </td>
 
 </tr>
 </table>
----
 
-## GitHub Stats
+## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YM1587&show_icons=true)
+<table>
+<tr>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YM1587&langs_count=6)
+<td width="50%" align="center">
 
----
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=YM1587&show_icons=true&theme=default&hide_border=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YM1587&layout=compact&langs_count=6&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YM1587&theme=default)
