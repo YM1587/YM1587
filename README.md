@@ -22,6 +22,12 @@ Rather than following tutorials, he focuses on building practical systems, exper
 
 ## Tech Stack
 
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 🧠 Core Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,7 +38,8 @@ Rather than following tutorials, he focuses on building practical systems, exper
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
----
+</td>
+<td valign="top" width="50%">
 
 ### 🤖 AI & Data Systems
 <p>
@@ -42,9 +49,13 @@ Rather than following tutorials, he focuses on building practical systems, exper
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-> EDA • Data Pipelines • ML Models • Feature Engineering • Model Evaluation
+> EDA • Pipelines • ML • Feature Engineering
 
----
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### ⚙️ Software Engineering
 <p>
@@ -54,9 +65,10 @@ Rather than following tutorials, he focuses on building practical systems, exper
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-> Frontend • Mobile Apps • APIs • Backend Systems • Databases
+> Frontend • Mobile • APIs • Backend
 
----
+</td>
+<td valign="top">
 
 ### 🛠️ Tools & Workflow
 <p>
@@ -65,12 +77,16 @@ Rather than following tutorials, he focuses on building practical systems, exper
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-> AI-assisted development • Debugging • System Design • Version Control • Rapid Prototyping
+> AI-assisted • Debugging • System Design
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Systems & Networking
-> Troubleshooting • Infrastructure • System Diagnostics • IT Support
+> Troubleshooting • Infrastructure • Diagnostics
 
 ---
 
