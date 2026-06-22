@@ -1,5 +1,5 @@
 ## About Me
-### AI Engineer | Data Systems Builder | Software Developer
+### AI Engineer | Data Systems Builder | Software Developer | Tech enthusiast .
 
 Eugine Onyango is an AI-focused software engineer working at the intersection of machine learning, data science, and backend systems.
 
