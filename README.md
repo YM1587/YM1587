@@ -5,7 +5,7 @@ Eugine Onyango is an AI-focused software engineer working at the intersection of
 
 He builds intelligent, data-driven solutions — combining software engineering, analytics, and AI to design systems that solve real-world problems. His work goes beyond writing code, focusing on structuring ideas into scalable, functional products.
 
-With experience across Python,Dart ,Flutter, Java, JavaScript, and SQL, he develops end-to-end systems, from data processing and model development to backend architecture and application logic.
+With experience across Python, Dart, Flutter, Java, JavaScript, and SQL, he develops end-to-end systems, from data processing and model development to backend architecture and application logic.
 
 He actively leverages AI as a core part of his workflow — accelerating development, improving decision-making, and enabling rapid prototyping of complex systems.
 
